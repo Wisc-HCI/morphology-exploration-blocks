@@ -3,6 +3,12 @@
 Morphology Exploration Blocks (MEB) is an open toolkit for exploring robot morphology through modular 3D-printable blocks.
 It was developed to support morphology ideation and analysis in Human–Robot Interaction (HRI) research.
 
+<p align="center">
+<img src="images/MEB_table.png" width="800"><br>
+<em>Photo credit: Rachel Robey</em>
+</p>
+</p>
+
 ## Overview
 
 MEB allows designers and researchers to quickly prototype robot forms by assembling modular blocks with embedded magnets.
