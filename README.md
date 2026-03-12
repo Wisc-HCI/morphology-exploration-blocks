@@ -50,4 +50,4 @@ Koike et al., 2026.
 
 ## License
 
-
+CERN-OHL-W-2.0
