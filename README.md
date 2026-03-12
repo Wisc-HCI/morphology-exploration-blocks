@@ -12,7 +12,7 @@ Applications include:
 - robot morphology exploration
 - design workshops
 - HRI education
-- morphology analysis
+- morphology analysis (for analysis examples, see images/MEB_Catalog.pdf)
 
 ## Quick Start
 
@@ -50,4 +50,27 @@ Koike et al., 2026.
 
 ## License
 
+CERN-OHL-W-2.0
 
+## Disclaimer
+
+Morphology Exploration Blocks (MEB) were developed based on a morphological
+analysis of various existing robots. The block geometries are simplified
+and abstract representations created for research and educational purposes.
+
+These blocks do not replicate or represent any specific commercial robot.
+All designs are original abstractions intended to support morphology
+exploration in Human–Robot Interaction (HRI) research.
+
+## Maintainer
+
+The Morphology Exploration Blocks (MEB) were designed by [Amy Koike](https://eimidon.com).
+
+This repository is hosted under the **People and Robots Lab** organization.
+
+For questions about the block design, workshops, or collaboration,
+please contact:
+
+Amy Koike  
+University of Wisconsin-Madison  
+ekoike@wisc.edu

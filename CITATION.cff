@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Morphology Exploration Blocks
+authors:
+  - family-names: Koike
+    given-names: Amy
+  - family-names: Guo
+    given-names: Serena Ge
+  - family-names: He
+    given-names: Xinning
+  - family-names: Kim
+    given-names: Callie Yejin
+  - family-names: Sullivan
+    given-names: Dakota
+  - family-names: Mutlu
+    given-names: Bilge
+repository-code: https://github.com/yourname/morphology-exploration-blocks
+license: CERN-OHL-W-2.0
