@@ -12,7 +12,7 @@ Applications include:
 - robot morphology exploration
 - design workshops
 - HRI education
-- morphology analysis
+- morphology analysis (for analysis examples, see images/MEB_Catalog.pdf)
 
 ## Quick Start
 
