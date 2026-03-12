@@ -72,5 +72,5 @@ For questions about the block design, workshops, or collaboration,
 please contact:
 
 Amy Koike  
-University of Wisconsin–Madison  
-📧 amykoike@wisc.edu
+University of Wisconsin-Madison  
+ekoike@wisc.edu
